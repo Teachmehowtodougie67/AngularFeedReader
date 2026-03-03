@@ -1,0 +1,1 @@
+import{Ra as o,Sa as s,Ya as i,za as n}from"./chunk-52ZMC46L.js";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-register-component"]],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),i(1,"register-component works!"),s())},encapsulation:2})};export{r as RegisterComponent};
